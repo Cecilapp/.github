@@ -7,7 +7,7 @@ The [first version](https://github.com/Cecilapp/Cecil/commit/58cd48bcc72baa7636f
 ## Authors
 
 - Cecil is maintained by [Arnaud Ligny](https://arnaudligny.fr), a web & mobile consultant
-- The logo has been created by [Cécile Ricordeau](http://www.cecillie.fr), an amazing creative director! <3
+- The logo has been created by [Cécile Ricordeau](https://www.cecillie.fr), an amazing creative director! <3
 
 ## License
 
